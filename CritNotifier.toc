@@ -1,0 +1,8 @@
+## Interface: 11403
+## Title: CritNotifier
+## Author: david-valdivia
+## Version: 1.0
+## Notes: Vibrate on critical strikes
+## Dependencies: 
+
+CritNotifier.lua
